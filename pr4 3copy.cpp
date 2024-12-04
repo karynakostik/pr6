@@ -8,7 +8,7 @@ int main()
 {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
-	int c = 10; //added a new variable
+	
 	int x;
 	cout << "\nÂâåä³òü x: ";
 	cin >> x;
