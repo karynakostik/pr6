@@ -13,3 +13,5 @@ int main()
 	cin >> x;
 	cout << "\nЧи є х парним двозначним числом? " << boolalpha << (x >= 10 && x <= 99 && x % 2 == 0) << endl;
 }
+//need to add func
+cout << "the change from the first dev";
